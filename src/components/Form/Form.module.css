@@ -1,0 +1,8 @@
+.addForm {
+    background-color: #189b48;
+    padding: 2.8rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.8rem;
+}
